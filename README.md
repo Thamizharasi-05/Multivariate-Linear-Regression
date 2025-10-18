@@ -21,7 +21,7 @@ Create the linear regression model and fit.
 Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm cube.
 
 ## Program:
-```
+```python
 #Program to implement multivariate linear regression and predict the output.
 #Developed by: Thamizharasi G
 #Reg no : 212224100059
